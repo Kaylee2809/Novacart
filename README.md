@@ -36,6 +36,29 @@ complete purchases.
 -   Track purchases
 -   View order history
 
+### Admin Dashboard
+
+-   Admin authentication
+-   Manage products
+-   Manage inventory
+-   Manage users
+-   Manage orders
+
+------------------------------------------------------------------------
+
+## Admin Login Details
+
+For testing the admin functionality:
+
+    Email:
+    admin@novacart.com
+
+    Password:
+    admin123
+
+> Note: These credentials are for development/testing purposes only.
+> Change them before deploying the application.
+
 ------------------------------------------------------------------------
 
 ## Technologies
